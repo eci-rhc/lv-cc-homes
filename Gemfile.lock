@@ -1,6 +1,6 @@
 GIT
   remote: git@github.com:eci-rhc/lv-lotvue-core.git
-  revision: 3a6ca3457a8d88d2fbf6bc1fe85d11f233eb3c05
+  revision: 85a667d1f70fe60a54af8f22d9d4270ad4488d27
   branch: cc_homes_master
   specs:
     lotvue_core (1.0.0)
@@ -399,7 +399,7 @@ GEM
     pry (0.14.2)
       coderay (~> 1.1)
       method_source (~> 1.0)
-    rack (2.2.5)
+    rack (2.2.6.3)
     rack-cache (1.12.1)
       rack (>= 0.4)
     rack-contrib (2.3.0)
@@ -502,7 +502,7 @@ GEM
       actionpack (>= 4.0)
       activesupport (>= 4.0)
       sprockets (>= 3.0.0)
-    sshkit (1.21.3)
+    sshkit (1.21.4)
       net-scp (>= 1.1.2)
       net-ssh (>= 2.8.0)
     sucker_punch (3.0.1)
@@ -520,7 +520,7 @@ GEM
       execjs (~> 2.7)
       less-rails (~> 2.8, >= 2.8.0)
       railties (~> 5.0, >= 5.0.1)
-    tzinfo (1.2.10)
+    tzinfo (1.2.11)
       thread_safe (~> 0.1)
     uglifier (4.2.0)
       execjs (>= 0.3.0, < 3)
